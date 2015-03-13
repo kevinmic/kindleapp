@@ -1,3 +1,11 @@
 # kindleapp
-Angular app to keep track data about books on my Kindle.    
-Data would include a review, violence rating, profanity rating, and sex rating
+I want to learn AngularJS better.   To do so I am creating this app.
+
+This app will do the following, eventually
+
+1. Keep track of books on my Kindle
+* Store ratings about the books containing
+  * Review
+  * Profanity Rating
+  * Voilence Rating
+  * Sex Content Rating
